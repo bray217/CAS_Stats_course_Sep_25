@@ -100,7 +100,7 @@ ipython_config.py
 #   commonly ignored for libraries.
 uv.lock
 .venv/*
-pyproject.toml
+# pyproject.toml
 
 # poetry
 #   Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
